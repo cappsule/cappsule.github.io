@@ -8,7 +8,7 @@ permalink: /documentation/
 
 The full documentation is available in the [doc repository](https://github.com/cappsule/doc/), and html files can be generated with the following commands:
 
-    git clone https://github/cappsule/doc.git doc
+    git clone https://github.com/cappsule/doc.git doc
     make -C doc/ html
 
 
@@ -18,10 +18,10 @@ The full documentation is available in the [doc repository](https://github.com/c
 Get the sources:
 
     mkdir src/
-    git clone https://github/cappsule/hypervisor.git src/hv
-    git clone https://github/cappsule/userland.git src/userland
-    git clone https://github/cappsule/gui.git src/userland/devices/gui
-    git clone https://github/cappsule/tools.git tools
+    git clone https://github.com/cappsule/hypervisor.git src/hv
+    git clone https://github.com/cappsule/userland.git src/userland
+    git clone https://github.com/cappsule/gui.git src/userland/devices/gui
+    git clone https://github.com/cappsule/tools.git tools
 
 Build:
 
