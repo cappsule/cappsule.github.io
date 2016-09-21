@@ -15,7 +15,7 @@ Give a look at the virtual machine [images](/download) to test it without any se
 
 ## Overview
 
-Cappsule makes use of security by isolation and runs transparently sensitive software in different VMs. If one of them is compromised, attackers can't access data outside of it. Here's a quick and non-exhaustive list of attacks which are ineffective from a cappsule: keylogging, screen recording, file stealing, network traffic interception, hardware attacks from a compromised application (DMA attacks, BIOS or firmware rootkit), etc. Basically, it protects computers against remote software attacks and makes the assumption that the hardware isn't backdoored. If this assumption doesn't fullfil your expectation or if you're concerned about physical attacks, [Qubes OS](https://www.qubes-os.org) might be a better choice.
+Cappsule makes use of security by isolation and runs transparently sensitive software in different VMs. If one of them is compromised, attackers can't access data outside of it. Here's a quick and non-exhaustive list of attacks which are ineffective from a cappsule: keylogging, screen recording, file stealing, network traffic interception, hardware attacks from a compromised application (DMA attacks, BIOS or firmware rootkit), etc. Basically, it protects computers against remote software attacks and makes the assumption that the hardware isn't backdoored. If this assumption doesn't fulfil your expectation or if you're concerned about physical attacks, [Qubes OS](https://www.qubes-os.org) might be a better choice.
 
 
 
