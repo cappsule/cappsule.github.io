@@ -1,0 +1,10 @@
+title: Cappsule
+description: virtualize your apps on the fly
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cappsule.github.io"
+
+# Build settings
+markdown: kramdown
+
+repository: cappsule/cappsule.github.io
+

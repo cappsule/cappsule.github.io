@@ -1,0 +1,734 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 35.783650,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.049433,
+      "\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      0.848586,
+      "\u001b[H\u001b[2J\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.680278,
+      "\r\u001b[7@(reverse-i-search)`':\u001b[C"
+    ],
+    [
+      0.231824,
+      "\u0008\u0008\u0008\u001b[30@b': sudo apt install libav-tools\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.040221,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1@a\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.167877,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008s': virt exec -p unrestricted -n bash\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.128500,
+      "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[1@h\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.678800,
+      "\r\u001b[11P\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$\r\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$ \u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.000221,
+      "\r\n"
+    ],
+    [
+      0.358669,
+      "user@capsule-13:~$ "
+    ],
+    [
+      1.043054,
+      "i"
+    ],
+    [
+      0.122880,
+      "d"
+    ],
+    [
+      0.383971,
+      "\r\n"
+    ],
+    [
+      0.042086,
+      "uid=1000(user) gid=1000(user) groups=1000(user),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),108(lpadmin),109(sambashare)\r\n"
+    ],
+    [
+      0.001088,
+      "user@capsule-13:~$ "
+    ],
+    [
+      0.893177,
+      "p"
+    ],
+    [
+      0.090548,
+      "s"
+    ],
+    [
+      0.104139,
+      " "
+    ],
+    [
+      0.147295,
+      "f"
+    ],
+    [
+      0.044254,
+      "a"
+    ],
+    [
+      0.111181,
+      "u"
+    ],
+    [
+      0.110397,
+      "x"
+    ],
+    [
+      0.050445,
+      "w"
+    ],
+    [
+      0.176477,
+      "w"
+    ],
+    [
+      0.131986,
+      "w"
+    ],
+    [
+      0.211835,
+      "\r\n"
+    ],
+    [
+      0.041216,
+      "USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND\r\n"
+    ],
+    [
+      0.010757,
+      "root         1  0.0  0.0   2148    48 ?        S+   05:17   0:00 /sbin/init\r\nuser         2  0.0  0.0  23808  1236 cappsule-tty0 Ss 05:17   0:00 bash\r\nuser         6  0.0  0.0  21156  1276 cappsule-tty0 R+ 05:33   0:00  \\_ ps fauxwww\r\n"
+    ],
+    [
+      0.000938,
+      "user@capsule-13:~$ "
+    ],
+    [
+      0.993242,
+      "i"
+    ],
+    [
+      0.073385,
+      "f"
+    ],
+    [
+      0.178829,
+      "c"
+    ],
+    [
+      0.087731,
+      "o"
+    ],
+    [
+      0.160180,
+      "n"
+    ],
+    [
+      0.087950,
+      "f"
+    ],
+    [
+      0.103894,
+      "i"
+    ],
+    [
+      0.104181,
+      "g"
+    ],
+    [
+      0.336044,
+      "\r\n"
+    ],
+    [
+      0.021107,
+      "lo        Link encap:Local Loopback  \r\n"
+    ],
+    [
+      0.001603,
+      "          inet addr:127.0.0.1  Mask:255.0.0.0\r\n          inet6 addr: ::1/128 Scope:Host\r\n          UP LOOPBACK RUNNING  MTU:65536  Metric:1\r\n          RX packets:0 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:0 \r\n          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)\r\n\r\ntun-caps-0 Link encap:UNSPEC  HWaddr 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  \r\n          inet addr:172.17.0.14  P-t-P:172.17.0.14  Mask:255.255.255.0\r\n          UP POINTOPOINT RUNNING  MTU:3000  Metric:1\r\n          RX packets:0 errors:0 dropped:0 overruns:0 frame:0\r\n          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0\r\n          collisions:0 txqueuelen:500 \r\n          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)\r\n\r\nuser@capsule-13:~$ "
+    ],
+    [
+      1.504925,
+      "~"
+    ],
+    [
+      0.303375,
+      "/"
+    ],
+    [
+      0.103049,
+      "D"
+    ],
+    [
+      0.282450,
+      "o"
+    ],
+    [
+      0.087889,
+      "w"
+    ],
+    [
+      0.062845,
+      "nloads/"
+    ],
+    [
+      0.303734,
+      "g"
+    ],
+    [
+      0.047891,
+      "e"
+    ],
+    [
+      0.127841,
+      "t"
+    ],
+    [
+      0.153953,
+      "root "
+    ],
+    [
+      0.421076,
+      "\r\n"
+    ],
+    [
+      0.073533,
+      "root@capsule-13:~# "
+    ],
+    [
+      0.943709,
+      "i"
+    ],
+    [
+      0.087474,
+      "d"
+    ],
+    [
+      0.276708,
+      "\r\n"
+    ],
+    [
+      0.032028,
+      "uid=0(root) gid=0(root) groups=0(root)\r\n"
+    ],
+    [
+      0.001061,
+      "root@capsule-13:~# "
+    ],
+    [
+      1.270571,
+      "~"
+    ],
+    [
+      0.311614,
+      "/"
+    ],
+    [
+      0.151029,
+      "D"
+    ],
+    [
+      0.249566,
+      "o"
+    ],
+    [
+      0.064165,
+      "w"
+    ],
+    [
+      0.043276,
+      "nloads/"
+    ],
+    [
+      0.438929,
+      "g"
+    ],
+    [
+      0.028453,
+      "e"
+    ],
+    [
+      0.169032,
+      "troot "
+    ],
+    [
+      0.330510,
+      "c"
+    ],
+    [
+      0.204620,
+      "r"
+    ],
+    [
+      0.042607,
+      "a"
+    ],
+    [
+      0.183163,
+      "s"
+    ],
+    [
+      0.076296,
+      "h"
+    ],
+    [
+      0.290973,
+      "\r\n"
+    ],
+    [
+      0.072350,
+      "Killed\r\nroot@capsule-13:~# "
+    ],
+    [
+      1.079914,
+      "d"
+    ],
+    [
+      0.106796,
+      "m"
+    ],
+    [
+      0.109226,
+      "e"
+    ],
+    [
+      0.055995,
+      "s"
+    ],
+    [
+      0.162754,
+      "g"
+    ],
+    [
+      0.053951,
+      " "
+    ],
+    [
+      0.226493,
+      "|"
+    ],
+    [
+      0.168475,
+      " "
+    ],
+    [
+      0.112044,
+      "t"
+    ],
+    [
+      0.062895,
+      "a"
+    ],
+    [
+      0.095989,
+      "i"
+    ],
+    [
+      0.045002,
+      "l"
+    ],
+    [
+      0.060099,
+      " "
+    ],
+    [
+      0.278504,
+      "-"
+    ],
+    [
+      0.436984,
+      "4"
+    ],
+    [
+      0.070962,
+      "0"
+    ],
+    [
+      0.376895,
+      "\r\n"
+    ],
+    [
+      0.054037,
+      "[17025.517052] do_exit(0) (groups)\r\n[17025.518858] do_exit(0) (bash)\r\n[17026.835593] execve in capsule: /usr/bin/id (allowed=1)\r\n[17026.865079] do_exit(0) (id)\r\n[17030.726014] execve in capsule: /home/user/Downloads/getroot (allowed=1)\r\n[17030.739350] BUG: unable to handle kernel NULL pointer dereference at           (null)\r\n[17030.740771] IP: [\u003cffffffffa01fa2aa\u003e] evil_sys_recvfrom+0x6a/0x100 [vuln]\r\n[17030.742008] PGD 5928a067 PUD 5928e067 PMD 0 \r\n[17030.742836] Oops: 0002 [#1] SMP \r\n[17030.743498] Modules linked in: cappsule(OX) cappsule_guest(OX) vuln(OX) xt_multiport xt_iprange xt_LOG overlayfs xt_addrtype xt_conntrack ipt_MASQUERADE iptable_nat nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 iptable_filter ip_tables x_tables nf_nat nf_conntrack bridge stp llc dm_thin_pool dm_persistent_data dm_bufio dm_bio_prison libcrc32c vmw_balloon crct10dif_pclmul crc32_pclmul aesni_intel aes_x86_64 lrw gf128mul glue_helper ablk_helper cryptd serio_raw binfmt_misc parport_pc ppdev vmw_vmci lp parport psmouse vmw_pvscsi "
+    ],
+    [
+      0.000026,
+      "ahci e1000 libahci vmxnet3 floppy mptspi mptscsih mptbase [last unloaded: cappsule_guest]\r\n[17030.754628] CPU: 0 PID: 33861 Comm: getroot Tainted: G           OX 3.13.0-85-generic #129-Ubuntu\r\n[17030.756152] Hardware name: VMware, Inc. VMware Virtual Platform/440BX Desktop Reference Platform, BIOS 6.00 07/02/2015\r\n[17030.757974] task: ffff8800573e6000 ti: ffff880059262000 task.ti: ffff880059262000\r\n[17030.759254] RIP: 0010:[\u003cffffffffa01fa2aa\u003e]  [\u003cffffffffa01fa2aa\u003e] evil_sys_recvfrom+0x6a/0x100 [vuln]\r\n[17030.760869] RSP: 0018:ffff880059263f48  EFLAGS: 00010246\r\n[17030.762005] RAX: deadbeefdeadc0de RBX: 42494e4352345348 RCX: 0000000000000000\r\n[17030.763263] RDX: 0000000000000000 RSI: 42494e4352345348 RDI: 00000000ffffffff\r\n[17030.764507] RBP: ffff880059263f78 R08: 0000000000000000 R09: 0000000000000000\r\n[17030.765737] R10: 0000000000000000 R11: 0000000000000246 R12: 00000000ffffffff\r\n[17030.766970] R13: 00007fff6e349210 R14: 0000000000000000 R15: 0000000000000000\r\n[17030.768243] FS:  00007fd0264b5740(0000) GS:ffff88007f600000(0000) knlGS:0000000000000000\r\n[17030.769638] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033\r\n[17030.770630] CR2: 0000000000000000 CR3: 0000000059270000 CR4: 00000000001407f0\r\n[17030.772189] DR0: 0000000000000000 DR1: 0000000000000000 DR2: 0000000000000000\r\n[17030.773473] DR3: 0000000000000000 DR6: 0000000000000000 DR7: 0000000000000000\r\n[17030.774706] Stack:\r\n[17030.775073]  00007fff6e349130 ffffffff81733fe8 0000000000000000 0000000000000000\r\n[17030.776467]  0000000000000000 00000000004006f0 00007fff6e349130 ffffffff8173c39d\r\n[17030.777831]  0000000000000246 0000000000000000 0000000000000000 0000000000000000\r\n[17030.779217] Call Trace:\r\n[17030.779690]  [\u003cffffffff81733fe8\u003e] ? page_fault+0x28/0x30\r\n[17030.780632]  [\u003cffffffff8173c39d\u003e] system_call_fastpath+0x1a/0x1f\r\n[17030.781720] Code: 00 48 89 df 89 c6 48 c7 c2 20 c0 1f a0 49 89 c4 e8 6c fd ff ff 48 83 c4 20 49 63 c4 5b 41 5c 5d c3 48 b8 de c0 ad de ef be ad de \u003c48\u003e 89 04 25 00 00 00 00 eb c0 0f 1f 40 00 31 ff 4c 89 4d d0 4c \r\n[17030.78678"
+    ],
+    [
+      0.000005,
+      "9] RIP  [\u003cffffffffa01fa2aa\u003e] evil_sys_recvfrom+0x6a/0x100 [vuln]\r\n[17030.788033]  RSP \u003cffff880059263f48\u003e\r\n[17030.788631] CR2: 0000000000000000\r\n[17030.789303] ---[ end trace 1e5d0134837d9c91 ]---\r\n[17030.790113] do_exit(9) (getroot)\r\n[17034.308790] execve in capsule: /usr/bin/tail (allowed=1)\r\n[17034.313528] execve in capsule: /bin/dmesg (allowed=1)\r\nroot@capsule-13:~# "
+    ],
+    [
+      2.298661,
+      "\u001b[H\u001b[2Jroot@capsule-13:~# "
+    ],
+    [
+      0.691949,
+      "e"
+    ],
+    [
+      0.051628,
+      "c"
+    ],
+    [
+      0.072239,
+      "h"
+    ],
+    [
+      0.169549,
+      "o"
+    ],
+    [
+      0.054627,
+      " "
+    ],
+    [
+      0.166034,
+      "1"
+    ],
+    [
+      0.148414,
+      " "
+    ],
+    [
+      0.215813,
+      "\u003e"
+    ],
+    [
+      0.070118,
+      " "
+    ],
+    [
+      0.251536,
+      "/"
+    ],
+    [
+      0.127946,
+      "d"
+    ],
+    [
+      0.047994,
+      "e"
+    ],
+    [
+      0.136181,
+      "v"
+    ],
+    [
+      0.415772,
+      "/"
+    ],
+    [
+      0.358733,
+      "v"
+    ],
+    [
+      0.313430,
+      "c"
+    ],
+    [
+      0.252651,
+      "s"
+    ],
+    [
+      0.161750,
+      "a"
+    ],
+    [
+      0.276858,
+      "1"
+    ],
+    [
+      0.805230,
+      "\r\n"
+    ],
+    [
+      0.007783,
+      "capsule 13 exited (reason: execution of an I/O instruction).\r\n"
+    ],
+    [
+      0.102349,
+      "\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.231471,
+      "d"
+    ],
+    [
+      0.095089,
+      "m"
+    ],
+    [
+      0.087598,
+      "e"
+    ],
+    [
+      0.086051,
+      "s"
+    ],
+    [
+      0.135135,
+      "g"
+    ],
+    [
+      0.080038,
+      " "
+    ],
+    [
+      0.215992,
+      "|"
+    ],
+    [
+      0.211204,
+      " "
+    ],
+    [
+      0.153068,
+      "t"
+    ],
+    [
+      0.053415,
+      "a"
+    ],
+    [
+      0.081120,
+      "i"
+    ],
+    [
+      0.060224,
+      "l"
+    ],
+    [
+      0.063157,
+      " "
+    ],
+    [
+      0.574351,
+      "-"
+    ],
+    [
+      0.361221,
+      "4"
+    ],
+    [
+      0.143819,
+      "0"
+    ],
+    [
+      0.760289,
+      "\r\n"
+    ],
+    [
+      0.012698,
+      "[ 7472.860715] [ 8209]  1000  8209    44609      164      23       38             0 dconf-service\r\n[ 7472.860716] [ 8273]  1000  8273    10660      354      26     1114             0 python\r\n"
+    ],
+    [
+      0.000025,
+      "[ 7472.860717] [16970]  1000 16970    60572        0     113     3176             0 emacs\r\n[ 7472.860719] [27552]     0 27552    26415        6      54      238             0 sshd\r\n[ 7472.860720] [27631]  1000 27631    26500       44      52      256             0 sshd\r\n"
+    ],
+    [
+      0.000015,
+      "[ 7472.860721] [27632]  1000 27632     7410        1      20       58             0 screen\r\n[ 7472.860722] [29748]  1000 29748   171395     1973     139        0             0 gnome-terminal"
+    ],
+    [
+      0.000010,
+      "\r\n[ 7472.860723] [29757]  1000 29757     3705       41      13        0             0 gnome-pty-helpe"
+    ],
+    [
+      0.000015,
+      "\r\n[ 7472.860723] [29758]  1000 29758     6796      976      18        0             0 bash\r\n"
+    ],
+    [
+      0.000014,
+      "[ 7472.860724] [29798]  1000 29798     6784      964      18        0             0 bash\r\n"
+    ],
+    [
+      0.000009,
+      "[ 7472.860725] [31066]  1000 31066     1082       31       8        0             0 ttygif\r\n"
+    ],
+    [
+      0.000009,
+      "[ 7472.860726] [31847]  1000 31847     1114       36       7        0             0 sh\r\n"
+    ],
+    [
+      0.000009,
+      "[ 7472.860727] Out of memory: Kill process 3156 (clamd) score 127 or sacrifice child"
+    ],
+    [
+      0.000009,
+      "\r\n[ 7472.861774] Killed process 3156 (clamd) total-vm:456620kB, anon-rss:22348kB, file-rss:0kB"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[ 7971.670953] hrtimer: interrupt took 13840933 ns\r\n"
+    ],
+    [
+      0.000009,
+      "[13831.842436] [cpsl] hv: cpu_virtualize: cpu 0\r\n"
+    ],
+    [
+      0.000009,
+      "[13831.843463] [cpsl] hv: cpu_virtualize: cpu 1"
+    ],
+    [
+      0.000009,
+      "\r\n[13831.844443] [cpsl] hv: cpu_virtualize: cpu 2"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[13831.845506] [cpsl] hv: cpu_virtualize: cpu 3\r\n"
+    ],
+    [
+      0.000009,
+      "[13849.587412] smpboot: CPU 1 is now offline"
+    ],
+    [
+      0.000009,
+      "\r\n[13849.608395] smpboot: CPU 2 is now offline"
+    ],
+    [
+      0.000009,
+      "\r\n[13849.628598] Broke affinity for irq 12"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[13849.632054] smpboot: CPU 3 is now offline\r\n"
+    ],
+    [
+      0.000010,
+      "[13850.010383] x86: Booting SMP configuration:"
+    ],
+    [
+      0.000010,
+      "\r\n[13850.010385] smpboot: Booting Node 0 Processor 1 APIC 0x2"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[13850.021485] Disabled fast string operations\r\n"
+    ],
+    [
+      0.000010,
+      "[13850.022299] mce: CPU supports 0 MCE banks"
+    ],
+    [
+      0.000010,
+      "\r\n[13850.022823] Skipped synchronization checks as TSC is reliable."
+    ],
+    [
+      0.000010,
+      "\r\n[13850.023601] smpboot: Booting Node 0 Processor 2 APIC 0x4"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "[13850.034648] Disabled"
+    ],
+    [
+      0.000010,
+      " fast string operations"
+    ],
+    [
+      0.000013,
+      "\r\n[13850.035385] mce: CPU supports 0 MCE banks"
+    ],
+    [
+      0.000015,
+      "\r\n[13850.035647] Skipped synchronization checks as TSC is reliable."
+    ],
+    [
+      0.000014,
+      "\r\n[13850.037155] smpboot: Booting Node 0 Processor 3 APIC 0x6"
+    ],
+    [
+      0.000014,
+      "\r\n[13850.048219] Disabled fast string operations"
+    ],
+    [
+      0.000014,
+      "\r\n[13850.048952] mce: CPU supports 0 MCE banks"
+    ],
+    [
+      0.000014,
+      "\r\n[13850.049128] Skipped synchronization checks as TSC is reliable."
+    ],
+    [
+      0.000014,
+      "\r\n[13850.049896] Adding 522236k swap on /dev/sda5.  Priority:-1 extents:1 across:522236k FS"
+    ],
+    [
+      0.000014,
+      "\r\n[13852.362738] overlayfs: missing upperdir or lowerdir"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "[14786.375647] systemd-hostnamed[35568]: Warning: nss-myhostname is not installed. Changing the local hostname might make it unresolveable. Please install nss-myhostname!\r\n"
+    ],
+    [
+      0.000011,
+      "[16208.875322] systemd-hostnamed[36601]: Warning: nss-myhostname is not installed. Changing the local hostname might make it unresolveable. Please install nss-myhostname!"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000263,
+      "\u001b]0;user@ubuntu: ~\u0007\u001b[01;32muser@ubuntu\u001b[00m:\u001b[01;34m~\u001b[00m$ "
+    ],
+    [
+      1.830352,
+      "exit"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ]
+  ]
+}
