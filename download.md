@@ -4,7 +4,18 @@ title: Download
 permalink: /download/
 ---
 
-The signature of each file should be checked against our GPG key which is available on the [contact](/contact) page.
+<div class="alert alert-danger">
+<p>Cappsule is still beta software and you should not use it in production. The software is provided "as is" without warranty of any kind. It may kill your cat, wipe your hard drive, etc.</p><br />
+<p>Ubuntu 16.04 LTS with kernel 4.4.0 is the only distribution supported.</p>
+</div>
+
+<div class="alert alert-warning">
+The signature of each file should be checked against our GPG key which is available on the <a href="/contact">contact</a> page.
+</div>
+
+## Source code
+
+Cappsule is under GPLv2. The source code is available on [GitHub](https://github.com/cappsule).
 
 
 
@@ -37,7 +48,7 @@ Virtual machines are convenient for testing the project without installing it on
 
 ## Ubuntu packages
 
-**Ubuntu 16 is the only distribution supported.** It may work without major modifications on other recent distributions. DISCLAIMER: The software is provided "as is" without warranty of any kind. It may kill your cat, wipe your hard drive, etc.
+**Ubuntu 16.04 LTS is the only distribution supported.** It may work without major modifications on other recent distributions.
 
  * [cappsule-1.0.deb](https://irma.quarkslab.com/cappsule/cappsule-1.0.deb)
  * [cappsule-1.0.deb.sig](https://irma.quarkslab.com/cappsule/cappsule-1.0.deb.sig)
@@ -58,9 +69,3 @@ Nevertheless, Cappsule can be run without GUI support thanks to the server versi
 
  * `/usr/local/cappsule/usr/bin/daemon --no-gui`
  * `virt exec --no-gui`: launches cappsule without GUI
-
-
-
-## Source code
-
-Cappsule is under GPL. The source code is available on [GitHub](https://github.com/cappsule).
