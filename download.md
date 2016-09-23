@@ -63,7 +63,7 @@ A server version without GUI support is available:
 
 ### GUI support
 
-The GUI support is tricky to get right because it requires a specific setup. `Xorg` must be launched through `X-wrapper-qubes` without root privileges. Colorful borders are only available with a [patched](https://github.com/cappsule/gui/tree/master/metacity) version of `metacity`.
+The GUI support is tricky to get right because it requires a specific setup. `Xorg` must be launched through `X-wrapper-qubes` without root privileges. Colorful borders are only available with a [patched](https://github.com/cappsule/cappsule-gui/tree/master/metacity) version of `metacity`.
 
 Nevertheless, Cappsule can be run without GUI support thanks to the server version, or using the following command lines:
 

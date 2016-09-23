@@ -9,10 +9,10 @@ permalink: /contact/
 Please report security issues privately by e-mail, and bugs through GitHub issues, on the correct repository:
 
 
- * [hypervisor issues](https://github.com/cappsule/hypervisor/issues)
- * [userland issues](https://github.com/cappsule/userland/issues)
- * [gui issues](https://github.com/cappsule/gui/issues)
- * [documentation typos](https://github.com/cappsule/doc/issues)
+ * [hypervisor issues](https://github.com/cappsule/cappsule-hypervisor/issues)
+ * [userland issues](https://github.com/cappsule/cappsule-userland/issues)
+ * [gui issues](https://github.com/cappsule/cappsule-gui/issues)
+ * [documentation typos](https://github.com/cappsule/cappsule-doc/issues)
 
 
 
