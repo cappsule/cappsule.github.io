@@ -40,18 +40,27 @@ Some miscellaneous options are available to specify policies and shared folders,
 
 ### Qubes OS
 
-The projects don't share the very same goal. Qubes OS is an amazing project whose developers pushed end user security a step ahead, and it protects against a broader panel of attacks than Cappsule (e.g. malicious firmware, buggy Wi-Fi or USB stack). Nevertheless, the main OS needs to be reinstalled, and users have to learn how to use this new system. Regarding security, Xen's history is disastrous but recent [hardware virtualization requirement](https://www.qubes-os.org/news/2016/07/21/new-hw-certification-for-q4/) should improve that issue.
+The projects don't share the very same goal. [Qubes OS](https://www.qubes-os.org/) is an amazing project whose developers pushed end user security a step ahead, and it protects against a broader panel of attacks than Cappsule (e.g. malicious firmware, buggy Wi-Fi or USB stack). Nevertheless, the main OS needs to be reinstalled, and users have to learn how to use this new system. Regarding security, Xen's history is disastrous but recent [hardware virtualization requirement](https://www.qubes-os.org/news/2016/07/21/new-hw-certification-for-q4/) should improve that issue.
 
 
 ### Subgraph OS
 
-Subgraph OS is another promising project. While I haven't tested it, it doesn't seem to use hardware virtualization, but instead relies on Linux namespaces and SECCOMP to ensure the isolation of applications.
+[Subgraph OS](https://subgraph.com/sgos/) is another promising project. While I haven't tested it, it doesn't seem to use hardware virtualization, but instead relies on Linux namespaces and SECCOMP to ensure the isolation of applications.
+
+
+### Firejail
+
+I heard a lot of positive comments about [Firejail](https://firejail.wordpress.com/). It also relies on Linux namespaces and SECCOMP to restrict the running environment of untrusted applications, and uses Xpra for the GUI.
 
 
 ### Docker
 
-Docker isn't meant for security. While a lot of improvements have been made recently in this area, it also relies on Linux namespaces and SECCOMP to ensure container isolation. A single kernel vulnerability allows an attacker to compromise the host. On this topic, the chapter 7 (*Understanding Container Threats*) of NCC Group Whitepaper [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/our-research/understanding-and-hardening-linux-containers/) is a must-read.
+[Docker](https://www.docker.com/) isn't meant for security. While a lot of improvements have been made recently in this area, it also relies on Linux namespaces and SECCOMP to ensure container isolation. A single kernel vulnerability allows an attacker to compromise the host. On this topic, the chapter 7 (*Understanding Container Threats*) of NCC Group Whitepaper [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/our-research/understanding-and-hardening-linux-containers/) is a must-read.
 
+
+### Bromium
+
+There is few technical public information available on [Bromium](https://www.bromium.com/), but its goals seem similar to Cappsule's. However, Microsoft Windows is supported by Bromium while Cappsule only runs on Linux. Joanna Rutkowska wrote a blogpost telling [How is Qubes OS different from...](http://theinvisiblethings.blogspot.com/2012/09/how-is-qubes-os-different-from.html) Bromium and other projects.
 
 
 ## Error messages
