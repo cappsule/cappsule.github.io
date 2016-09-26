@@ -18,7 +18,7 @@ Please report security issues privately by e-mail, and bugs through GitHub issue
 
 ## IRC
 
-`##cappsule` on `irc.freenode.net`
+`##cappsule` on `irc.freenode.net` (yes, you must type two sharps).
 
 
 
