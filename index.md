@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Cappsule is a new kind of hypervisor developed by [Quarkslab](http://quarkslab.com) (to our knowledge, there's no similar public project). Its goal is to virtualize any software on the fly (e.g. web browser, office suite, media player) into lightweight VMs called cappsules. Attacks are confined inside cappsules and therefore don't have any impact on the host OS. Applications don't need to be repackaged, and their usage remain the same for the end user: it's completely transparent. Moreover, the OS doesn't need to be reinstalled nor modified.
+Cappsule is a new kind of hypervisor developed by [Quarkslab](https://quarkslab.com) (to our knowledge, there's no similar public project). Its goal is to virtualize any software on the fly (e.g. web browser, office suite, media player) into lightweight VMs called cappsules. Attacks are confined inside cappsules and therefore don't have any impact on the host OS. Applications don't need to be repackaged, and their usage remain the same for the end user: it's completely transparent. Moreover, the OS doesn't need to be reinstalled nor modified.
 
 <a href="/screenshots?autoplay=1" target="_blank"><img src="/data/video.png" controls class="img-thumbnail center-block" alt="video screenshot (in a new tab)" /></a>
 

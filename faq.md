@@ -60,7 +60,7 @@ I heard a lot of positive comments about [Firejail](https://firejail.wordpress.c
 
 ### Bromium
 
-There is few technical public information available on [Bromium](https://www.bromium.com/), but its goals seem similar to Cappsule's. However, Microsoft Windows is supported by Bromium while Cappsule only runs on Linux. Joanna Rutkowska wrote a blogpost telling [How is Qubes OS different from...](http://theinvisiblethings.blogspot.com/2012/09/how-is-qubes-os-different-from.html) Bromium and other projects.
+There is few technical public information available on [Bromium](https://www.bromium.com/), but its goals seem similar to Cappsule's. However, Microsoft Windows is supported by Bromium while Cappsule only runs on Linux. Joanna Rutkowska wrote a blogpost telling [How is Qubes OS different from...](https://theinvisiblethings.blogspot.com/2012/09/how-is-qubes-os-different-from.html) Bromium and other projects.
 
 
 ## Error messages
