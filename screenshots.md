@@ -14,7 +14,7 @@ A typical desktop usage for Cappsule: Firefox, gnome-terminal and evince, all la
 
 ## Kernel exploit
 
-If a kernel vulnerability is found, its exploitation will have no impact on the host. The first execution of `getroot\ will indeed give root privileges, however, the second time will crash the cappsule’s kernel. The cappsule is eventually killed because it tries to access to the hardware through an I/O.
+If a kernel vulnerability is found, its exploitation will have no impact on the host. The first execution of `getroot` will indeed give root privileges, however, the second time will crash the cappsule’s kernel. The cappsule is eventually killed because it tries to access to the hardware through an I/O.
 
 <div id="player-container-1" class="center-block"></div>
 
