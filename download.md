@@ -34,10 +34,7 @@ Virtual machines are convenient for testing the project without installing it on
 
 ### VirtualBox
 
- * [cappsule - virtualbox.tar.bz2](https://irma.quarkslab.com/cappsule/cappsule - virtualbox.tar.bz2) (2.2Gb)
- * [cappsule - virtualbox.tar.bz2.sig](https://irma.quarkslab.com/cappsule/cappsule - virtualbox.tar.bz2.sig)
- * sha256sum: `55c4995aaf1beb8918e20a3d9d64214f67ee1057d927b35370d682b82e2cd498`
- * *Enable VT-x/AMD-V* and *Enable Nested Paging*
+Cappsule can't be tested under VirtualBox since it [doesn't support nested virtualization](https://www.virtualbox.org/ticket/4032). 
 
 
 ### VM configuration
