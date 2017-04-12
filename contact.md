@@ -24,7 +24,8 @@ Please report security issues privately by e-mail, and bugs through GitHub issue
 
 ## E-mail
 
-`cappsule` at `quarkslab` dot `com`
+ * `cappsule` at `quarkslab` dot `com`
+ * `gcampana` at `security-labs` dot `org`
 
 
 
